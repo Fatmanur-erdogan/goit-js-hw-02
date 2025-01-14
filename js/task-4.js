@@ -2,6 +2,7 @@
 
 function getShippingCost(country) {
   let price;
+  let message;
  
 
   switch (country) {
